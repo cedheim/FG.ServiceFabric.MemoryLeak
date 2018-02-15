@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FG.ServiceFabric.MemoryLeak.LoadTester": {
+      "commandName": "Project",
+      "commandLineArgs": "100000"
+    }
+  }
+}
